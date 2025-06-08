@@ -2,7 +2,7 @@
 
 ### Introduction
 
-This repository contains our decision tree implementation and evaluation code.
+This repository contains the first coursework from the ‘Introduction to Machine Learning’ module of the MSc Computing programme at Imperial College London. It focuses on building and evaluating decision tree models, demonstrating a foundational grasp of supervised learning techniques, data analysis, and performance evaluation.
 
 ### Data
 
